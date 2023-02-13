@@ -1,0 +1,27 @@
+a=q
+c=e
+i=m
+l=p
+q=n
+y=o
+j=u
+z=a
+b=s
+p=i
+u=t
+f=g
+d=r
+e=d
+w=v
+k=c
+
+AJCJC | LZPD-LDYFDZIIPQF | ZEWPBYD ICCUPQFB | ICBBZFC PQBUDJKUYD YD ICQUYD
+qJeJe | pZPD-pDoFDZmmPnF | ZEWPBoD meeUPnFB | meBBZFe PnBUDJKUoD oD menUoD
+queue | pZPD-pDoFDZmmPnF | ZEWPBoD meeUPnFB | meBBZFe PnBUDuKUoD oD menUoD
+queue | paPD-pDoFDammPnF | aEWPBoD meeUPnFB | meBBaFe PnBUDuKUoD oD menUoD
+queue | paPD-pDoFDammPnF | aEWPsoD meeUPnFs | messaFe PnsUDuKUoD oD menUoD
+queue | paiD-pDoFDamminF | aEWisoD meeUinFs | messaFe insUDuKUoD oD menUoD
+queue | paiD-pDoFDamminF | aEWisoD meetinFs | messaFe instDuKtoD oD mentoD
+queue | paiD-pDogDamming | aEWisoD meetings | message instDuKtoD oD mentoD
+queue | pair-programming | aEWisor meetings | message instruKtor or mentor
+queue | pair-programming | advisor meetings | message instructor or mentor
